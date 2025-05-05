@@ -95,6 +95,17 @@ contract AIPoweredNegotiation {
 
 # Expected Output:
 Buyers submit offers, and the contract auto-negotiates the price.
+![Screenshot 2025-05-05 185434](https://github.com/user-attachments/assets/d2014bb4-f35d-4f54-a5a4-3515bccd5325)
+
+![Screenshot 2025-05-05 185513](https://github.com/user-attachments/assets/7bfcefc4-98e8-4236-9dd3-a5e09ef9a601)
+
+![Screenshot 2025-05-05 185540](https://github.com/user-attachments/assets/13c4bd50-4491-4355-a529-8cec8dbe658c)
+
+![Screenshot 2025-05-05 185636](https://github.com/user-attachments/assets/bccd92ba-e1f1-4106-a09e-5e1b8bb22dc6)
+
+
+
+
 
 
 If the buyer’s offer is fair, the deal is executed.
